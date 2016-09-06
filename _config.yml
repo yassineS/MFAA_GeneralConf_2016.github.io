@@ -1,19 +1,17 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: MFAA General Conference 2016
+description: Immigration: From Integration to Citizenship
+author: MFAA
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+about: Moroccan Fulbright Alumni Association
 
 baseurl: ""
-url: "http://aboutashu.com/hcz-jekyll-blog"
+url: ""
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+google_analytics: #UA-72862926-1 #TODO
 
 share:
-  twitter_username: \#
-  fb_appid: 000000000000
+  twitter_username: \# #TODO
+  fb_appid: 000000000000 #TODO
 
 
 enableTags: true

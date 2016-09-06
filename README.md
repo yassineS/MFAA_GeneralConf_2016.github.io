@@ -1,3 +1,6 @@
+## Intro
+This repo hosts the production verion of the MFAA General Conference 2016 website. The website is Jekyll powered and hosted on github's pages with a redirection to a custom domain. The jekyll theme is based on the HCZ Material theme.
+
 ## HCZ Material theme
 
 This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
