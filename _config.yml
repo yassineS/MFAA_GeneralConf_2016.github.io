@@ -4,8 +4,8 @@ author: MFAA
 logo: /static/img/avatar.png
 about: Moroccan Fulbright Alumni Association
 
-baseurl: ""
-url: ""
+baseurl: "https://yassines.github.io/MFAA_GeneralConf_2016.github.io/"
+url: "https://yassines.github.io/MFAA_GeneralConf_2016.github.io/"
 
 google_analytics: #UA-72862926-1 #TODO
 
