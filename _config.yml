@@ -1,7 +1,7 @@
 title: MFAA General Conference 2016
 description: Immigration: From Integration to Citizenship
 author: MFAA
-logo: /static/img/avatar.png
+logo: ./static/img/avatar.png
 about: Moroccan Fulbright Alumni Association
 
 baseurl: "https://yassines.github.io/MFAA_GeneralConf_2016.github.io/"
